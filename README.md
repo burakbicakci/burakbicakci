@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">I am a 3rd year student of computer engineering at Zonguldak Bülent Ecevit University. I am interested and specialized in front-end. I am currently writing react and continue to improve myself every day. I love learning new languages, participating in team projects and researching. I am a member of the software team in the Yavuzlar Web Security team in the SiberVatan program.</h3>
+<h3 align="center">I am a 4th year student of computer engineering at Zonguldak Bülent Ecevit University. I am interested and specialized in front-end. I am currently writing react and continue to improve myself every day. I love learning new languages, participating in team projects and researching. I am a member of the software team in the Yavuzlar Web Security team in the SiberVatan program.</h3>
 
 - 🔭 I’m currently working on **Frontend and Cyber Security**
 - 🌱 I’m currently learning **React.js**
